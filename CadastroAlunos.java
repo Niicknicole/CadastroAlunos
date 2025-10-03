@@ -344,11 +344,3 @@ public class CadastroAlunos {
 
 }
 
-/*
-Projeto 1 – Árvores Binárias
-Integrantes:
-
-- Nicole de Oliveira Matos
-- Kelvin Medina da Silva Dias
-- Rodrigo Leal Ferreira Castro
-*/
